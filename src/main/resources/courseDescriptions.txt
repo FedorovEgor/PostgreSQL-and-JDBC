@@ -1,0 +1,10 @@
+Astronomy is a natural science that studies celestial objects and phenomena.
+Mathematics includes the study of such topics as number theory, algebra, geometry and mathematical analysis.
+Physics is the natural science that studies matter, its motion and behavior through space and time.
+Chemistry is the scientific discipline involved with elements and compounds composed of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during a reaction with other substances.
+Ecology is a branch of biology concerning interactions among organisms and their biophysical environment.
+Biology is the natural science that studies life and living organisms, including their physical structure, chemical processes, molecular interactions, physiological mechanisms, development and evolution.
+Electronics comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter.
+Computer science is the study of computation and information.
+Economics is the social science that studies how people interact with scarce resources, in particular the production, distribution, and consumption of goods and services.
+History is the study of the past.

@@ -1,2 +1,2 @@
-# Task7
-SQL &amp; JDBC
+# Task 7 - SQL
+
